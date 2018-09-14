@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234423441509",
+    "firebase_url": "https://my-chat-app-35bdd.firebaseio.com",
+    "project_id": "my-chat-app-35bdd",
+    "storage_bucket": "my-chat-app-35bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234423441509:android:e1062b8bf0b95085",
+        "android_client_info": {
+          "package_name": "xyz.iotdroid.ambarschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234423441509-pmn4otkue2p5fm1grom6d9b68irjqjms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.iotdroid.ambarschat",
+            "certificate_hash": "00c304fe7701da714b458d5f91a9997cd553f0ea"
+          }
+        },
+        {
+          "client_id": "234423441509-jgq2b9ruo071akrj0qf6n97mfk8rqtb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RJO5CvEKhjzZQIacrC7EaEpopS0k4uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234423441509-jgq2b9ruo071akrj0qf6n97mfk8rqtb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
