@@ -257,7 +257,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, "something wrong", Toast.LENGTH_SHORT).show();
             }
 
-
     }
 
     @Override
